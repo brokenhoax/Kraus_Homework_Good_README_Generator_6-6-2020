@@ -1,0 +1,22 @@
+{
+  "name": "kraus_homework_good_readme_generator_6-6-2020",
+  "version": "1.0.0",
+  "description": "homework assignment \"Good README Generator\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brokenhoax/Kraus_Homework_Good_README_Generator_6-6-2020.git"
+  },
+  "author": "Andrew Kraus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brokenhoax/Kraus_Homework_Good_README_Generator_6-6-2020/issues"
+  },
+  "homepage": "https://github.com/brokenhoax/Kraus_Homework_Good_README_Generator_6-6-2020#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
