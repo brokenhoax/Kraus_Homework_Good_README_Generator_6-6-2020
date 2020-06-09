@@ -132,7 +132,7 @@ function generateMarkdown(data) {
 `# Title:  ${answers.Project_Title}
 ## Description:  ${answers.Project_Description}
 ## Table of Contents: \n${answers.Table_O_Contents}
-## Installation_Process: \n${answers.Installation_Process}
+## Installation Process: \n${answers.Installation_Process}
 ## Usage: ${answers.Usage}
 ## License: ${answers.License}
 ## Contributing: ${answers.Contributing}
@@ -141,7 +141,7 @@ function generateMarkdown(data) {
 ## GitHub Username: ${answers.GitHub_Username}
 ## GitHub E-Mail: ${answers.GitHub_Email}`
 
-    fs.writeFile('README.md', readMeString, function (err) {
+    fs.writeFile('../README.md', readMeString, function (err) {
       if (err) throw err;
       console.log('Saved!');
     });

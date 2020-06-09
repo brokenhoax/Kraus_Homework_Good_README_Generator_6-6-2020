@@ -13,9 +13,9 @@ Step 2
 Step 3  
 ```
 ## Usage: *With great power comes great responsibility!*
-## License: Just don't try to resell, okay?
-## Contributing: Contribute early and often. Send me a pull request and... we'll see...
-## Tests: Oodles I tell ya!
+## License: Just don't let me catch you trying to resell it, okay?
+## Contributing: Contribute, yo! Early and often...
+## Tests: I tested this software like... 100 times.
 ## Questions: brokenhoax@outlook.com
 ## GitHub Username: brokenhoax
-## GitHub E-Mail: brokennhoax@outlook.com
+## GitHub E-Mail: brokenhoax@outlook.com
