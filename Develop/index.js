@@ -1,12 +1,2 @@
-const questions = [
-
-];
-
-function writeToFile(fileName, data) {
-}
-
-function init() {
-
-}
-
-init();
+const newFile = require('./utils/generateMarkdown');
+newFile.generateMarkdown()
