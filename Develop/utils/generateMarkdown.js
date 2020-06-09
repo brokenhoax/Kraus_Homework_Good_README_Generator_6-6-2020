@@ -139,7 +139,8 @@ function generateMarkdown(data) {
 ## Tests: ${answers.Tests}
 ## Questions: ${answers.Questions}
 ## GitHub Username: ${answers.GitHub_Username}
-## GitHub E-Mail: ${answers.GitHub_Email}`
+## GitHub E-Mail: ${answers.GitHub_Email}
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)`
 
     fs.writeFile('../README.md', readMeString, function (err) {
       if (err) throw err;
